@@ -83,3 +83,11 @@ Programming and development often teaches one wisdom that cannot be attained els
 ***
 
 ###Eternal sunshine of the stateless mind
+
+***
+
+###Laziness is your best friend.  Never do twice what you can automate once.
+
+***
+
+###Good test coverage + automated workflows = quiet cell phones and better sleep.
