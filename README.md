@@ -64,4 +64,6 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###Testing is easier than debugging.
 
+***
+
 ###Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
