@@ -100,3 +100,6 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###The best code is no code at all
 
+***
+
+###The best request is the one you don't make.
