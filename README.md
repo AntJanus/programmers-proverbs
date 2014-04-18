@@ -70,7 +70,6 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ***
 
-<<<<<<< HEAD
 ###Customer are the best tester.
 
 ***
