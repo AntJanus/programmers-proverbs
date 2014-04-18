@@ -20,7 +20,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###Scope creep makes a mountain.
 
-###A hundred programmers wn't make a two-year project in a week.
+###A hundred programmers won't make a two-year project in a week.
 
 ###Facebook wasn't built in a day
 
