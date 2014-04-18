@@ -4,33 +4,63 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###A deployed MVP is worth two prototyped.
 
+***
+
 ###When you reach bearded-level, there are at least a hundred grey-beards above you.
+
+***
 
 ###A/B Test twice, deploy changes once.
 
+***
+
 ###Don't commit on master when drunk.
+
+***
 
 ###Sleep on a force push.
 
+***
+
 ###Sometimes you have to cut legacy support to allow the new product to bloom.
+
+***
 
 ###More hours worked, more commits made. Mostly reverts and bug-causing features.
 
+***
+
 ###Even a greybeard will drop production DB.
+
+***
 
 ###Scope creep makes a mountain.
 
+***
+
 ###A hundred programmers won't make a two-year project in a week.
+
+***
 
 ###Facebook wasn't built in a day
 
+***
+
 ###"Just ship" is no substitute for design
+
+***
 
 ###Today's fashion is tomorrow's legacy
 
+***
+
 ###Learning obscure and strange languages, yields better understanding and broader horizons
 
+***
+
 ###The better job you do, the easier others discount the level of difficulty
+
+***
 
 ###Testing is easier than debugging.
 
