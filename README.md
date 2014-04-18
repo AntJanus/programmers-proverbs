@@ -70,6 +70,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ***
 
+<<<<<<< HEAD
 ###Customer are the best tester.
 
 ***
@@ -79,3 +80,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 ***
 
 ###Absence is beauty, in error logs.
+
+***
+
+###Eternal sunshine of the stateless mind
