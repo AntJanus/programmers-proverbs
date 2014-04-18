@@ -100,3 +100,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###The best code is no code at all
 
+***
+
+###Pioneers take the arrows. Settlers take the land.
+
