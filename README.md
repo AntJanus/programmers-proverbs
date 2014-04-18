@@ -23,3 +23,11 @@ Programming and development often teaches one wisdom that cannot be attained els
 ###A hundred programmers wn't make a two-year project in a week.
 
 ###Facebook wasn't built in a day
+
+###"Just ship" is no substitute for design
+
+###Today's fashion is tomorrow's legacy
+
+###Learning obscure and strange languages, yields better understanding and broader horizons
+
+###There better job you do, the easier others assume it was
