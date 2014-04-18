@@ -22,6 +22,10 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ***
 
+###A git pull a day, keeps the doctor away
+
+***
+
 ###Sometimes you have to cut legacy support to allow the new product to bloom.
 
 ***
