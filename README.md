@@ -74,7 +74,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ***
 
-###Customer are the best tester.
+###Customers are the best testers.
 
 ***
 
