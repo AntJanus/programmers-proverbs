@@ -100,3 +100,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###The best code is no code at all
 
+***
+
+###Write code like the next person to work on it is a murderous psychopath and he knows where you live.
+
