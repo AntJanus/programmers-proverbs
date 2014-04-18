@@ -95,3 +95,8 @@ Programming and development often teaches one wisdom that cannot be attained els
 ***
 
 ###Good test coverage + automated workflows = quiet cell phones and better sleep.
+
+***
+
+###The best code is no code at all
+
