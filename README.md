@@ -22,7 +22,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ***
 
-###A git pull a day, keep the doctor away
+###A git pull a day, keeps the doctor away
 
 ***
 
