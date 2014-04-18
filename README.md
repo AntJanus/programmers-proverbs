@@ -30,4 +30,6 @@ Programming and development often teaches one wisdom that cannot be attained els
 
 ###Learning obscure and strange languages, yields better understanding and broader horizons
 
-###There better job you do, the easier others discount the level of difficulty
+###The better job you do, the easier others discount the level of difficulty
+
+###Testing is easier than debugging.
