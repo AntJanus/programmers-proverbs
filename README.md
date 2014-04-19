@@ -103,3 +103,7 @@ Programming and development often teaches one wisdom that cannot be attained els
 ***
 
 ###The best request is the one you don't make.
+
+***
+
+###Listen to want they want, respond with what they need
