@@ -13,8 +13,6 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ##Proverbs
 
-***
-
 ####A deployed MVP is worth two prototyped.
 
 ***
