@@ -10,106 +10,109 @@ Given that I've been getting a great number of pull requests and submissions, I 
 3. **Should I include my name in the quote?** You're welcome to do a `- by Me` tag after the quote. That will ensure that even after I restructure the readme file, you'll still get credit!
 4. **Is my quote always going to be here?** Probably not but I will build out a `legacy.README.md` where I will store any discarded quotes.
 
-***
 
-###A deployed MVP is worth two prototyped.
-
-***
-
-###When you reach bearded-level, there are at least a hundred grey-beards above you.
+##Proverbs
 
 ***
 
-###A/B Test twice, deploy changes once.
+####A deployed MVP is worth two prototyped.
 
 ***
 
-###Don't commit on master when drunk.
+####When you reach bearded-level, there are at least a hundred grey-beards above you.
 
 ***
 
-###Sleep on a force push.
+####A/B Test twice, deploy changes once.
 
 ***
 
-###A git pull a day, keeps the doctor away
+####Don't commit on master when drunk.
 
 ***
 
-###Sometimes you have to cut legacy support to allow the new product to bloom.
+####Sleep on a force push.
 
 ***
 
-###More hours worked, more commits made. Mostly reverts and bug-causing features.
+####A git pull a day, keeps the doctor away
 
 ***
 
-###Even a greybeard will drop production DB.
+####Sometimes you have to cut legacy support to allow the new product to bloom.
 
 ***
 
-###Scope creep makes a mountain.
+####More hours worked, more commits made. Mostly reverts and bug-causing features.
 
 ***
 
-###A hundred programmers won't make a two-year project in a week.
+####Even a greybeard will drop production DB.
 
 ***
 
-###Facebook wasn't built in a day
+####Scope creep makes a mountain.
 
 ***
 
-###"Just ship" is no substitute for design
+####A hundred programmers won't make a two-year project in a week.
 
 ***
 
-###Today's fashion is tomorrow's legacy
+####Facebook wasn't built in a day
 
 ***
 
-###Learning obscure and strange languages, yields better understanding and broader horizons
+####"Just ship" is no substitute for design
 
 ***
 
-###The better job you do, the easier others discount the level of difficulty
+####Today's fashion is tomorrow's legacy
 
 ***
 
-###Testing is easier than debugging.
+####Learning obscure and strange languages, yields better understanding and broader horizons
 
 ***
 
-###Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
+####The better job you do, the easier others discount the level of difficulty
 
 ***
 
-###Customers are the best testers.
+####Testing is easier than debugging.
 
 ***
 
-###Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." --Brian Kernighan
+####Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
 
 ***
 
-###Absence is beauty, in error logs.
+####Customers are the best testers.
 
 ***
 
-###Eternal sunshine of the stateless mind
+####Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." --Brian Kernighan
 
 ***
 
-###Laziness is your best friend.  Never do twice what you can automate once.
+####Absence is beauty, in error logs.
 
 ***
 
-###Good test coverage + automated workflows = quiet cell phones and better sleep.
+####Eternal sunshine of the stateless mind
 
 ***
 
-###The best code is no code at all
+####Laziness is your best friend.  Never do twice what you can automate once.
 
 ***
 
-###The best request is the one you don't make.
+####Good test coverage + automated workflows = quiet cell phones and better sleep.
+
+***
+
+####The best code is no code at all
+
+***
+
+####The best request is the one you don't make.
