@@ -114,3 +114,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####The best request is the one you don't make.
+
+***
+
+####Every domain specific language converges towards Turing completeness over its lifetime. --Jens Finkhaeuser
