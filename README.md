@@ -114,3 +114,15 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####The best request is the one you don't make.
+
+***
+
+####If a system works perfectly, no one will care what is inside it. Once it breaks, systems design and architecture decides your fate.
+
+***
+
+####Leave architecture for applications that require long-term support.
+
+***
+
+###Architecture and design are preparations for problems and changes, not a key to runtime. 
