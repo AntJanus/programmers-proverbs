@@ -126,3 +126,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####Architecture and design are preparations for problems and changes, not a key to runtime. 
+
+***
+
+####Baking a cake is a science; decorating cakes is an art; some people are better at one, than the other; but you can't really do much with the icing, until the cake is out of the oven; try it and you'll either get burned OR end up with a big gooey mess.. and, even though we can put your kid's picture on the cake doesn't mean we have to... sometimes maybe it's better to figure out the recipe before we discuss the sprinkles. Agile software development is no different than planning a child's birthday. You start with: "How many people are going to be at the party?", and then you figure out "WHO is gonna bring WHAT to the table? and WHEN!" Everything else is simply a matter of taste... - Joe Negron ~ NYC
