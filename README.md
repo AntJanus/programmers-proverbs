@@ -126,3 +126,23 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####Architecture and design are preparations for problems and changes, not a key to runtime. 
+
+***
+
+####Without a prototype, don't build a final product.
+
+***
+
+####Without boilerplate, there's no speedy development.
+
+***
+
+####Code frustration is a bad advisor for a refactor.
+
+***
+
+####An early BETA launch will teach you more than a delayed promise.
+
+***
+
+###All applications are pretty when your screen is off.
