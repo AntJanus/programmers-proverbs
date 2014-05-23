@@ -150,3 +150,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####Do not pick a framework for its demo page, instead pick it for its code.
+
+***
+
+####You cannot set a web standard alone.
