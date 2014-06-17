@@ -154,3 +154,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####You cannot set a web standard alone.
+
+***
+
+####A poor programmer blames the language
