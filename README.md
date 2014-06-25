@@ -165,4 +165,4 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-###Manana often has the most tickets
+###Mañana often has the most tickets
