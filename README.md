@@ -170,3 +170,8 @@ Given that I've been getting a great number of pull requests and submissions, I 
 ***
 
 ####Think about your dance moves when drunk, next time you try to code with some beers on your count.
+
+***
+
+####What happens in Git stays in Git
+
