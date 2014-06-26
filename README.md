@@ -178,4 +178,8 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
+####Never optimize before measuring
+
+***
+
 ####Think about your dance moves when drunk, next time you try to code with some beers on your count.
