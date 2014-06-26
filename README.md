@@ -10,6 +10,15 @@ Given that I've been getting a great number of pull requests and submissions, I 
 3. **Should I include my name in the quote?** You're welcome to do a `- by Me` tag after the quote. That will ensure that even after I restructure the readme file, you'll still get credit!
 4. **Is my quote always going to be here?** Probably not but I will build out a `legacy.README.md` where I will store any discarded quotes.
 
+##API
+For those that feel like they want to hit up an API and get a list of proverbs (or a single proverb), I crafted this neat little API. Here's how it works:
+
+All proverbs: http://proverbs-app.antjan.us
+
+Random proverb: http://proverbs-app.antjan.us/random
+
+Please tweet <@antjanus> if you do use it so I can see it in action!
+
 
 ##Proverbs
 
