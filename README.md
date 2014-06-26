@@ -183,3 +183,8 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Think about your dance moves when drunk, next time you try to code with some beers on your count.
+
+***
+
+####What happens in Git stays in Git
+
