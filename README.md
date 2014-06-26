@@ -10,6 +10,15 @@ Given that I've been getting a great number of pull requests and submissions, I 
 3. **Should I include my name in the quote?** You're welcome to do a `- by Me` tag after the quote. That will ensure that even after I restructure the readme file, you'll still get credit!
 4. **Is my quote always going to be here?** Probably not but I will build out a `legacy.README.md` where I will store any discarded quotes.
 
+##API
+For those that feel like they want to hit up an API and get a list of proverbs (or a single proverb), I crafted this neat little API. Here's how it works:
+
+All proverbs: http://proverbs-app.antjan.us
+
+Random proverb: http://proverbs-app.antjan.us/random
+
+Please tweet <@antjanus> if you do use it so I can see it in action!
+
 
 ##Proverbs
 
@@ -33,7 +42,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####A git pull a day, keeps the doctor away
+####A git pull a day, keeps the doctor away.
 
 ***
 
@@ -57,23 +66,23 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####Facebook wasn't built in a day
+####Facebook wasn't built in a day.
 
 ***
 
-####"Just ship" is no substitute for design
+####"Just ship" is no substitute for design.
 
 ***
 
-####Today's fashion is tomorrow's legacy
+####Today's fashion is tomorrow's legacy.
 
 ***
 
-####Learning obscure and strange languages, yields better understanding and broader horizons
+####Learning obscure and strange languages, yields better understanding and broader horizons.
 
 ***
 
-####The better job you do, the easier others discount the level of difficulty
+####The better job you do, the easier others discount the level of difficulty.
 
 ***
 
@@ -89,7 +98,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." --Brian Kernighan
+####"Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." --Brian Kernighan
 
 ***
 
@@ -97,7 +106,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####Eternal sunshine of the stateless mind
+####Eternal sunshine of the stateless mind.
 
 ***
 
@@ -109,7 +118,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####The best code is no code at all
+####The best code is no code at all.
 
 ***
 
@@ -157,16 +166,20 @@ Given that I've been getting a great number of pull requests and submissions, I 
 
 ***
 
-####A poor programmer blames the language
+####A poor programmer blames the language.
 
 ***
 
-####The code's writin' but ain't nobody programming
+####The code's writin' but ain't nobody programming.
 
 ***
 
-####Mañana often has the most tickets
+####Mañana often has the most tickets.
 
 ***
 
 ####Never optimize before measuring
+
+***
+
+####Think about your dance moves when drunk, next time you try to code with some beers on your count.
