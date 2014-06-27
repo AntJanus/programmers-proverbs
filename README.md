@@ -150,12 +150,14 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-###The best request is the one you don't make.
+####The best request is the one you don't make.
 
 *** 
 
-###The more technology you learn, the more you realize how little you know
-=======
+####The more technology you learn, the more you realize how little you know
+
+***
+
 ####An early BETA launch will teach you more than a delayed promise.
 
 ***
