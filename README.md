@@ -148,6 +148,10 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ####Code frustration is a bad advisor for a refactor.
 
+*** 
+
+####The more technology you learn, the more you realize how little you know.
+
 ***
 
 ####An early BETA launch will teach you more than a delayed promise.
@@ -187,4 +191,3 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####What happens in Git stays in Git
-
