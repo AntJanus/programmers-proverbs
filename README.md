@@ -148,13 +148,9 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ####Code frustration is a bad advisor for a refactor.
 
-***
-
-####The best request is the one you don't make.
-
 *** 
 
-####The more technology you learn, the more you realize how little you know
+####The more technology you learn, the more you realize how little you know.
 
 ***
 
