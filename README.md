@@ -22,6 +22,9 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ##Proverbs
 
+####I got 99 bugs but a memory leak ain't one.
+
+
 ####A deployed MVP is worth two prototyped.
 
 ***
