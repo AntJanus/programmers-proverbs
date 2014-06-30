@@ -191,3 +191,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####What happens in Git stays in Git
+
+***
+
+####All code has bugs. Simpler code has less bugs than complex code.
