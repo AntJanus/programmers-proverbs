@@ -195,3 +195,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Simpler code has less bugs.
+
+***
+
+####Lock up your dependency versions and other valuables.
