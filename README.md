@@ -199,3 +199,8 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Lock up your dependency versions and other valuables.
+
+***
+
+####Quantity of attempts often yields quality at the end. Commitment to refactoring legacy code yields better quality yet.
+
