@@ -204,3 +204,6 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ####Quantity of attempts often yields quality at the end. Commitment to refactoring legacy code yields better quality yet.
 
+***
+
+####Accept that some days you're the QA and some days you're the one fixing bugs.
