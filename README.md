@@ -216,8 +216,6 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ####Debugging becomes significantly easier if you first admit that you are the problem.
 
-
 ***
 
 ####Figure out your data structures, and the code will follow. 
-
