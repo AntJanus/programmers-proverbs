@@ -214,15 +214,8 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####The best line of code is none.
-
-***
-
 ####Debugging becomes significantly easier if you first admit that you are the problem.
 
-***
-
-####Fancy algorithms are slow when n is small, and n is usually small. - Rob Pike
 
 ***
 
