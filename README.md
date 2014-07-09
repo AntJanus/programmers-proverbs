@@ -207,3 +207,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Accept that some days you're the QA and some days you're the one fixing bugs.
+
+***
+
+####Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
