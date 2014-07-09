@@ -211,3 +211,20 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
+
+***
+
+####The best line of code is none.
+
+***
+
+####Debugging becomes significantly easier if you first admit that you are the problem.
+
+***
+
+####Fancy algorithms are slow when n is small, and n is usually small. - Rob Pike
+
+***
+
+####Figure out your data structures, and the code will follow. 
+
