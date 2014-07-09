@@ -211,3 +211,11 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
+
+***
+
+####Debugging becomes significantly easier if you first admit that you are the problem.
+
+***
+
+####Figure out your data structures, and the code will follow. 
