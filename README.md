@@ -210,4 +210,4 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####Give a programmer the correct code and his work is done for a day. Teach a programmer to debug and he can do his work for a lifetime
+####Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
