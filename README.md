@@ -228,3 +228,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ####Code is communication, and you should always communicate in the language of the domain, at an appropriate, and consistent level of abstraction.
 
+***
+
+####Design your libraries in such a way, that it enables your users to crete readable, and expressive code.
+
