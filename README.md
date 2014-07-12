@@ -219,3 +219,9 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Figure out your data structures, and the code will follow. 
+
+***
+
+#### One thing should never do more than one thing.
+
+***
