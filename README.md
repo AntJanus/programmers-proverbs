@@ -222,8 +222,16 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-#### One thing should never do more than one thing.
+####One thing should never do more than one thing.
 
 ***
 
-#### Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
+####Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
+
+***
+
+####An open source developer does not act for personal fame.
+
+***
+
+####Public code review forces one to better oneself. It forces better practices, smarter solutions, growth as a developer... or being broken.
