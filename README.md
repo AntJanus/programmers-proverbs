@@ -225,3 +225,5 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 #### One thing should never do more than one thing.
 
 ***
+
+#### Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
