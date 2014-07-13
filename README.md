@@ -226,4 +226,30 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-#### Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
+#### The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of project managers.
+
+***
+
+#### If it's not tested, it doesn't work.
+
+***
+
+#### If it's not tested, it doesn't work.
+
+***
+
+#### All you need to kick ass, is an ass and a kick.
+
+***
+
+#### You do not want your fellow man to refer to your code as "legacy".
+
+***
+
+#### DOn't make the same mistake twice, thrice, frice: Test your code.
+
+***
+
+#### You can have all the layers you want, but it's still an onion.
+
+***
