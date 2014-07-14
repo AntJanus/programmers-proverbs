@@ -231,3 +231,6 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Public code review forces one to better oneself. It forces better practices, smarter solutions, growth as a developer... or being broken.
+
+***
+####Testing covers not testing.
