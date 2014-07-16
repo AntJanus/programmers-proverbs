@@ -237,12 +237,12 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-###The most attractive pull requests are the ones wearing a lot of red.
+####The most attractive pull requests are the ones wearing a lot of red.
 
 ***
 
-###Coding styleguides without peer code reviews are like running a country on voluntary taxes
+####Coding styleguides without peer code reviews are like running a country on voluntary taxes
 
 ***
 
-###Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
+####Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
