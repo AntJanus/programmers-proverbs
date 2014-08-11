@@ -246,3 +246,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
+
+***
+
+####Learn a programming language, become a new developer.
