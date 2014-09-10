@@ -250,3 +250,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Learn a programming language, become a new developer.
+
+***
+
+####Some old code never refactors, and breaks at the slightest change.
