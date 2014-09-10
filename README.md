@@ -254,3 +254,15 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Some old code never refactors, and breaks at the slightest change.
+
+***
+
+####A developer will spot a peer from far away
+
+***
+
+####A developer that codes until burnout, lives without a mind.
+
+***
+
+####A marketer is not a QA, a developer does not advertise.
