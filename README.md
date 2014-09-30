@@ -281,4 +281,4 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####Find ease in your code: Code difficult to read and understand is code destined to be in trouble legacy.
+####Find ease in your code: Code difficult to read and understand is code destined to be in troubled legacy.
