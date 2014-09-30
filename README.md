@@ -266,3 +266,19 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####A marketer is not a QA, a developer does not advertise.
+
+***
+
+####A soft spoken developer will see his warnings of technical debt unheeded, and will suffer the blame.
+
+***
+
+####A well spoken developer can be hired hastily but at the last minute fail an easy test.
+
+***
+
+####One can self-learn the art of code but do not assume other crafts suffer of such low bar of entry.
+
+***
+
+####Find ease in your code: Code difficult to read and understand is code destined to be in trouble legacy.
