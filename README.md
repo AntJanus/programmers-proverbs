@@ -282,3 +282,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Find ease in your code: Code difficult to read and understand is code destined to be in troubled legacy.
+
+***
+
+###Collaborating on open source projects can bring about friendship and community just as it can create factions and flame wars.
