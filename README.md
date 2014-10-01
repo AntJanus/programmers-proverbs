@@ -286,3 +286,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Collaborating on open source projects can bring about friendship and community just as it can create factions and flame wars.
+
+***
+
+####"Refactor or rewrite, there is no patching unmaintainable legacy code
