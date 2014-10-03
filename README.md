@@ -294,3 +294,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####If you stop learning now and take the easy path, you will find yourself stuck in legacy software forever.
+
+***
+
+####A beautiful product which is pleasing to non-paying users is good only for frightening investors when it runs out of funding.
