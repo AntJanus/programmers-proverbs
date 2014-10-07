@@ -302,3 +302,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####A foreach loop avoided is a CPU cycle earned.
+
+***
+
+####You cannot prevent managers from asking too much of you, but you can prevent them from getting used to it.
