@@ -298,3 +298,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####A beautiful product which is pleasing to non-paying users is good only for frightening investors when it runs out of funding.
+
+***
+
+####A foreach loop avoided is a CPU cycle earned.
