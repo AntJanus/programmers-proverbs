@@ -321,12 +321,8 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####Hofstadter's Law will tel you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
+####Hofstadter's Law will tell you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
 
 ***
 
 ####Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
-
-***
-
-####Will the project be done on time? Will the project be under budget? Will the project be done properly? You can only ever honestly answer yes to two out of three of these questions for any given project.
