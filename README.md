@@ -310,3 +310,19 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Any sufficiently complex app architecture is indistinguishable from spaghetti code.
+
+***
+
+####Writing requirements based code and walking on water are both relatively easy to do when frozen.
+
+***
+
+####It takes twice as much intelligence to debug than to program, therefore you peer review because you can never truly be smart enough to debug your own code.
+
+***
+
+####Hofstadter's Law will tell you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
+
+***
+
+####Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
