@@ -326,3 +326,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
+
+***
+
+####Weeks of programming can save you hours of planning
