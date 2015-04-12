@@ -329,4 +329,4 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####Small bug becomes huge problem.
+####Small bug becomes a huge problem.
