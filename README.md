@@ -330,3 +330,23 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Small bug becomes a huge problem.
+
+***
+
+####No one who codes before dawn 360 days a year fails to make his startup rich
+
+***
+
+####There is no test without first a failure
+
+***
+
+####A line of testing is worth more than a module of code
+
+***
+
+####Don't put all your logic in one method basket
+
+***
+
+####As you code so shall you also deploy
