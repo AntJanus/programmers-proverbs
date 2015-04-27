@@ -350,3 +350,23 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####As you code so shall you also deploy
+
+***
+
+####Diff before you Push
+
+***
+
+####When the only tool you have is Rails, everything looks like Ruby
+
+***
+
+####Careful that Ignoring a PR doesn't get construed as Approval
+
+***
+
+####An interview at the right price is worth two at Google
+
+***
+
+####With commit and deploy access comes great responsability
