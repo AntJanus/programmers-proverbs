@@ -333,7 +333,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-####No one who codes before dawn 360 days a year fails to make his startup rich
+####No one who codes before dawn 360 days a year fails to make his startup profitable
 
 ***
 
