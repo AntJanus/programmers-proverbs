@@ -330,3 +330,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Small bug becomes a huge problem.
+
+***
+
+####Commiting is the only command I know, Commiting on you.
