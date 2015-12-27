@@ -22,6 +22,10 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ##Proverbs
 
+####Dance like nobody is watching, code like everybody is.
+
+***
+
 ####A deployed MVP is worth two prototyped.
 
 ***
