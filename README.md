@@ -338,3 +338,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Commiting is the only command I know, Commiting on you.
+
+***
+
+####You said you like to optimize code, I hope it's not premature.
