@@ -338,3 +338,43 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####Commiting is the only command I know, Commiting on you.
+
+***
+
+####There is no pill to convert yourself as a good programmer, it takes lots of reading, learning and practice. So start now.
+
+***
+
+####An open pull request (PR) is a liability in at least 2 ways. 1 it's feature/fix not shipped to customers.2 it will invite code conflicts soon.
+
+***
+
+####Talking about automated testing and Continuous Integration(CI) is easy, balancing it with delivery and cost as a web shop manager is hard.
+
+***
+
+####Having automated tests but no Continuous Integration(CI) is like having a sword but letting it rot.
+
+***
+
+####You cannot follow everything by the book. It's generally an ish implementation like agileish, kanbanish and RESTish
+
+***
+
+####If you are thinking of a software product idea, make a pain killer people can't live without not an optional vitamin people can and will skip
+
+***
+
+####Software engineers have power to create great solutions but the best software to solve the least important problem is of no use.
+
+***
+
+####Programmers/developers need to become software engineers. Think of solution then technology to implement it. Think of abstractions then code.
+
+***
+
+####Software developers are solution providers first, engineers second. Solution should have business value than using the latest tech fad.
+
+***
+
+####If you don't sharpen your axe then it will take more time and effort to cut the tree. Same goes for software development.
