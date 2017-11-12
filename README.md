@@ -1,8 +1,8 @@
-##Programmer's Proverbs
+## Programmer's Proverbs
 
 Programming and development often teaches one wisdom that cannot be attained elsewhere. Coding and programming, as some have said, is a way of life, not just job. When you are a coder, that is a big part of who you are at work and outside of work. So, let's come together, and put down our wisdom for future generations to see and learn from.
 
-##The Rules
+## The Rules
 Given that I've been getting a great number of pull requests and submissions, I wanted to write down a quick FAQ and rulebook.
 
 1. **Are programming wisdoms allowed?** No, not really. These are supposed to be wisdoms and proverbs about life taken from programming. While a "proverb" like `Use semantic class names that are easy to read and understand` sounds great for a programmer, it misses the point of the repo. It can be rewritten as such `Write classnames so others can understand the wisdom of your code` which makes sense outside of coding as well: work and communicate in such a way so that others can understand what you mean and the wisdom behind your work.
@@ -10,7 +10,7 @@ Given that I've been getting a great number of pull requests and submissions, I 
 3. **Should I include my name in the quote?** You're welcome to do a `- by Me` tag after the quote. That will ensure that even after I restructure the readme file, you'll still get credit!
 4. **Is my quote always going to be here?** Probably not but I will build out a `legacy.README.md` where I will store any discarded quotes.
 
-##API
+## API
 For those that feel like they want to hit up an API and get a list of proverbs (or a single proverb), I crafted this neat little API. Here's how it works:
 
 All proverbs: http://proverbs-app.antjan.us
@@ -20,357 +20,365 @@ Random proverb: http://proverbs-app.antjan.us/random
 Please tweet <@antjanus> if you do use it so I can see it in action!
 
 
-##Proverbs
+## Proverbs
 
-####A deployed MVP is worth two prototyped.
+#### Dance like nobody is watching, code like everybody is.
 
 ***
 
-####When you reach bearded-level, there are at least a hundred grey-beards above you.
+#### A deployed MVP is worth two prototyped.
 
 ***
 
-####A/B Test twice, deploy changes once.
+#### When you reach bearded-level, there are at least a hundred grey-beards above you.
 
 ***
 
-####Don't commit on master when drunk.
+#### A/B Test twice, deploy changes once.
 
 ***
 
-####Sleep on a force push.
+#### Don't commit on master when drunk.
 
 ***
 
-####A git pull a day, keeps the doctor away.
+#### Sleep on a force push.
 
 ***
 
-####Sometimes you have to cut legacy support to allow the new product to bloom.
+#### A git pull a day, keeps the doctor away.
 
 ***
 
-####More hours worked, more commits made. Mostly reverts and bug-causing features.
+#### Sometimes you have to cut legacy support to allow the new product to bloom.
 
 ***
 
-####Even a greybeard will drop production DB.
+#### More hours worked, more commits made. Mostly reverts and bug-causing features.
 
 ***
 
-####Scope creep makes a mountain.
+#### Even a greybeard will drop production DB.
 
 ***
 
-####A hundred programmers won't make a two-year project in a week.
+#### Scope creep makes a mountain.
 
 ***
 
-####Facebook wasn't built in a day.
+#### A hundred programmers won't make a two-year project in a week.
 
 ***
 
-####"Just ship" is no substitute for design.
+#### Facebook wasn't built in a day.
 
 ***
 
-####Today's fashion is tomorrow's legacy.
+#### "Just ship" is no substitute for design.
 
 ***
 
-####Learning obscure and strange languages, yields better understanding and broader horizons.
+#### Today's fashion is tomorrow's legacy.
 
 ***
 
-####The better job you do, the easier others discount the level of difficulty.
+#### Learning obscure and strange languages, yields better understanding and broader horizons.
 
 ***
 
-####Testing is easier than debugging.
+#### The better job you do, the easier others discount the level of difficulty.
 
 ***
 
-####Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
+#### Testing is easier than debugging.
 
 ***
 
-####Customers are the best testers.
+#### Finish a product in a day, and people will expect a new product every day. Teach people about proper development cycles, and your company will flourish.
 
 ***
 
-####Absence is beauty, in error logs.
+#### Customers are the best testers.
 
 ***
 
-####Eternal sunshine of the stateless mind.
+#### Absence is beauty, in error logs.
 
 ***
 
-####Laziness is your best friend.  Never do twice what you can automate once.
+#### Eternal sunshine of the stateless mind.
 
 ***
 
-####Good test coverage + automated workflows = quiet cell phones and better sleep.
+#### Laziness is your best friend.  Never do twice what you can automate once.
 
 ***
 
-####The best code is no code at all.
+#### Good test coverage + automated workflows = quiet cell phones and better sleep.
 
 ***
 
-####The best request is the one you don't make.
+#### The best code is no code at all.
 
 ***
 
-####If a system works perfectly, no one will care what is inside it. Once it breaks, systems design and architecture decides your fate.
+#### The best request is the one you don't make.
 
 ***
 
-####Leave architecture for applications that require long-term support.
+#### If a system works perfectly, no one will care what is inside it. Once it breaks, systems design and architecture decides your fate.
 
 ***
 
-####Architecture and design are preparations for problems and changes, not a key to runtime.
+#### Leave architecture for applications that require long-term support.
 
 ***
 
-####Without a prototype, don't build a final product.
+#### Architecture and design are preparations for problems and changes, not a key to runtime.
 
 ***
 
-####Without boilerplate, there's no speedy development.
+#### Without a prototype, don't build a final product.
 
 ***
 
-####Code frustration is a bad advisor for a refactor.
+#### Without boilerplate, there's no speedy development.
 
 ***
 
-####The more technology you learn, the more you realize how little you know.
+#### Code frustration is a bad advisor for a refactor.
 
 ***
 
-####An early BETA launch will teach you more than a delayed promise.
+#### The more technology you learn, the more you realize how little you know.
 
 ***
 
-####All applications are pretty when your screen is off.
+#### An early BETA launch will teach you more than a delayed promise.
 
 ***
 
-####Do not pick a framework for its demo page, instead pick it for its code.
+#### All applications are pretty when your screen is off.
 
 ***
 
-####You cannot set a web standard alone.
+#### Do not pick a framework for its demo page, instead pick it for its code.
 
 ***
 
-####A poor programmer blames the language.
+#### You cannot set a web standard alone.
 
 ***
 
-####The code's writin' but ain't nobody programming.
+#### A poor programmer blames the language.
 
 ***
 
-####Mañana often has the most tickets.
+#### The code's writin' but ain't nobody programming.
 
 ***
 
-####Never optimize before measuring
+#### Mañana often has the most tickets.
 
 ***
 
-####Think about your dance moves when drunk, next time you try to code with some beers on your count.
+#### Never optimize before measuring
 
 ***
 
-####What happens in Git stays in Git
+#### Think about your dance moves when drunk, next time you try to code with some beers on your count.
 
 ***
 
-####Simpler code has less bugs.
+#### What happens in Git stays in Git
 
 ***
 
-####Lock up your dependency versions and other valuables.
+#### Simpler code has less bugs.
 
 ***
 
-####Quantity of attempts often yields quality at the end. Commitment to refactoring legacy code yields better quality yet.
+#### Lock up your dependency versions and other valuables.
 
 ***
 
-####Accept that some days you're the QA and some days you're the one fixing bugs.
+#### Quantity of attempts often yields quality at the end. Commitment to refactoring legacy code yields better quality yet.
 
 ***
 
-####Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
+#### Accept that some days you're the QA and some days you're the one fixing bugs.
 
 ***
 
-####Debugging becomes significantly easier if you first admit that you are the problem.
+#### Give a programmer the correct code and he can do his work for a day. Teach a programmer to debug and he can do his work for a lifetime - by Chirag Gude
 
 ***
 
-####Figure out your data structures, and the code will follow.
+#### Debugging becomes significantly easier if you first admit that you are the problem.
 
 ***
 
-####One thing should never do more than one thing.
+#### Figure out your data structures, and the code will follow.
 
 ***
 
-####Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
+#### One thing should never do more than one thing.
 
 ***
 
-####An open source developer does not act for personal fame.
+#### Success from a final version is a lie, there is only iteration. Through iteration, we gain better products. Through better products, we gain traction. Through traction, we gain success. Through success, misguided tech specs are broken. The development cycle shall free us.
 
 ***
 
-####Public code review forces one to better oneself. It forces better practices, smarter solutions, growth as a developer... or being broken.
+#### An open source developer does not act for personal fame.
 
 ***
-####Testing covers not testing.
 
+#### Public code review forces one to better oneself. It forces better practices, smarter solutions, growth as a developer... or being broken.
+
+***
+#### Testing covers not testing.
+
+***
+
+#### The most attractive pull requests are the ones wearing a lot of red.
+
 ***
 
-####The most attractive pull requests are the ones wearing a lot of red.
+#### Coding styleguides without peer code reviews are like running a country on voluntary taxes
 
 ***
 
-####Coding styleguides without peer code reviews are like running a country on voluntary taxes
+#### Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
 
 ***
 
-####Deploying an unmonitored app is like going on a roadtrip without a gas gauge.
+#### Learn a programming language, become a new developer.
 
 ***
 
-####Learn a programming language, become a new developer.
+#### Some old code never refactors, and breaks at the slightest change.
 
 ***
 
-####Some old code never refactors, and breaks at the slightest change.
+#### A developer will spot a peer from far away
 
 ***
 
-####A developer will spot a peer from far away
+#### A developer that codes until burnout, lives without a mind.
 
 ***
 
-####A developer that codes until burnout, lives without a mind.
+#### A marketer is not a QA, a developer does not advertise.
 
 ***
 
-####A marketer is not a QA, a developer does not advertise.
+#### A soft spoken developer will see his warnings of technical debt unheeded, and will suffer the blame.
 
 ***
 
-####A soft spoken developer will see his warnings of technical debt unheeded, and will suffer the blame.
+#### A well spoken developer can be hired hastily but at the last minute fail an easy test.
 
 ***
 
-####A well spoken developer can be hired hastily but at the last minute fail an easy test.
+#### One can self-learn the art of code but do not assume other crafts suffer of such low bar of entry.
 
 ***
 
-####One can self-learn the art of code but do not assume other crafts suffer of such low bar of entry.
+#### Find ease in your code: Code difficult to read and understand is code destined to be in troubled legacy.
 
 ***
 
-####Find ease in your code: Code difficult to read and understand is code destined to be in troubled legacy.
+#### Collaborating on open source projects can bring about friendship and community just as it can create factions and flame wars.
 
 ***
 
-####Collaborating on open source projects can bring about friendship and community just as it can create factions and flame wars.
+#### Refactor or rewrite, there is no patching unmaintainable legacy code
 
 ***
 
-####Refactor or rewrite, there is no patching unmaintainable legacy code
+#### If you stop learning now and take the easy path, you will find yourself stuck in legacy software forever.
 
 ***
 
-####If you stop learning now and take the easy path, you will find yourself stuck in legacy software forever.
+#### A beautiful product which is pleasing to non-paying users is good only for frightening investors when it runs out of funding.
 
 ***
 
-####A beautiful product which is pleasing to non-paying users is good only for frightening investors when it runs out of funding.
+#### A foreach loop avoided is a CPU cycle earned.
 
 ***
 
-####A foreach loop avoided is a CPU cycle earned.
+#### You cannot prevent managers from asking too much of you, but you can prevent them from getting used to it.
 
 ***
 
-####You cannot prevent managers from asking too much of you, but you can prevent them from getting used to it.
+#### Any sufficiently complex app architecture is indistinguishable from spaghetti code.
 
 ***
 
-####Any sufficiently complex app architecture is indistinguishable from spaghetti code.
+#### Writing requirements based code and walking on water are both relatively easy to do when frozen.
 
 ***
 
-####Writing requirements based code and walking on water are both relatively easy to do when frozen.
+#### It takes twice as much intelligence to debug than to program, therefore you peer review because you can never truly be smart enough to debug your own code.
 
 ***
 
-####It takes twice as much intelligence to debug than to program, therefore you peer review because you can never truly be smart enough to debug your own code.
+#### Hofstadter's Law will tell you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
 
 ***
 
-####Hofstadter's Law will tell you to always add more time than you think you need to a project because it will take longer, even when you take into account Hofstadter's Law.
+#### Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
 
 ***
 
-####Long lasting code is written only when you pretend that it will be peer reviewed or maintained by a violent psycopath who knows where you live.
+#### Small bug becomes a huge problem.
 
 ***
 
-####Small bug becomes a huge problem.
+#### Commiting is the only command I know, Commiting on you.
 
 ***
 
-####No one who codes before dawn 360 days a year fails to make his startup profitable
+#### No one who codes before dawn 360 days a year fails to make his startup profitable
 
 ***
 
-####There is no test without first a failure
+#### There is no test without first a failure
 
 ***
 
-####A line of testing is worth more than a module of code
+#### A line of testing is worth more than a module of code
 
 ***
 
-####Don't put all your logic in one method basket
+#### Don't put all your logic in one method basket
 
 ***
 
-####As you code so shall you also deploy
+#### As you code so shall you also deploy
 
 ***
 
-####Diff before you Push
+#### Diff before you Push
 
 ***
 
-####When the only tool you have is Rails, everything looks like Ruby
+#### When the only tool you have is Rails, everything looks like Ruby
 
 ***
 
-####Careful that Ignoring a PR doesn't get construed as Approval
+#### Careful that Ignoring a PR doesn't get construed as Approval
 
 ***
 
-####An interview at the right price is worth two at Google
+#### An interview at the right price is worth two at Google
 
 ***
 
-####With commit and deploy access comes great responsability
+#### With commit and deploy access comes great responsibility
 
 ***
 
-####When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
+#### When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
