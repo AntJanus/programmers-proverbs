@@ -370,3 +370,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 ####With commit and deploy access comes great responsability
+
+***
+
+####When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
