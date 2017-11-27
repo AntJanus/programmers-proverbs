@@ -338,3 +338,47 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 #### Commiting is the only command I know, Commiting on you.
+
+***
+
+#### No one who codes before dawn 360 days a year fails to make his startup profitable
+
+***
+
+#### There is no test without first a failure
+
+***
+
+#### A line of testing is worth more than a module of code
+
+***
+
+#### Don't put all your logic in one method basket
+
+***
+
+#### As you code so shall you also deploy
+
+***
+
+#### Diff before you Push
+
+***
+
+#### When the only tool you have is Rails, everything looks like Ruby
+
+***
+
+#### Careful that Ignoring a PR doesn't get construed as Approval
+
+***
+
+#### An interview at the right price is worth two at Google
+
+***
+
+#### With commit and deploy access comes great responsibility
+
+***
+
+#### When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
