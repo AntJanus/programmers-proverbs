@@ -382,3 +382,19 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 #### When aruging with a foolish and conceded programmer, first make sure that the other person isn't doing the exact same thing
+
+***
+
+#### Don't enter an architecture argument without knowing design patterns first
+
+***
+
+#### Anger and stubborness make bad allies in code review
+
+***
+
+#### Not all those that prototype and test ideas are lost.
+
+***
+
+#### Each new commit holds new chances, new beginnings
