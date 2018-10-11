@@ -30,7 +30,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-#### When you reach bearded-level, there are at least a hundred grey-beards above you.
+#### When you reach wizened engineer-level, there are at least a hundred wizened engineers above you.
 
 ***
 
@@ -58,7 +58,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 
 ***
 
-#### Even a greybeard will drop production DB.
+#### Even a wizened engineer will drop production DB.
 
 ***
 
