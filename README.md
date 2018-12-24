@@ -406,3 +406,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 #### Commit or do not commit, there is no try
+
+***
+
+#### Mastery in programming is not about increasing code complexity.  It is about solving increasingly complex problems with simple code.
