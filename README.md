@@ -406,3 +406,7 @@ Please tweet <@antjanus> if you do use it so I can see it in action!
 ***
 
 #### Commit or do not commit, there is no try
+
+***
+
+#### When you understand how the machine handles your code, everything will become clearer.
